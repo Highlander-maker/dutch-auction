@@ -1,2 +1,2 @@
-# shared-liquidity
-share liquidity between juno dApps
+# dutch-autcion
+buy and sell goods on juno-network
